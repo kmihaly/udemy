@@ -22,6 +22,7 @@
   text-decoration: line-through;
 }
 
+/* the following margin was necessary for the inline placed delete button*/
 button {
   margin-left: 10px;
 }
